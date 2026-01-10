@@ -1,13 +1,12 @@
 Hi, I'm Jeremiah 👋
+
 Results-driven worker with a proactive mindset, attention to detail, and a newly budding interest in Data Analytics.
 Seeks opportunities to improve processes and overall workflow for team benefit. Conscientious & hardworking. Proficient in utilizing Excel, SQL, and Tableau for data
 manipulation, analysis, and visualization, with a strong portfolio of various successful technical projects.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on [Storytelling with Data Project](https://public.tableau.com/views/FStorytellingwithDataProject1-5/StorytellingwithDataStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - 🌱 I’m currently learning Business Analytics.
-- 👯 I’m looking to collaborate on projects with more expereinced collegues.
+- 👯 I’m looking to collaborate on projects with more experienced collegues.
 - 🤔 I’m looking for help with finding the right Work-Life Balance
 - 💬 Ask me about Music
 - 📫 How to reach me: jtkeshawn23@icloud.com
