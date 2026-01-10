@@ -5,7 +5,7 @@ manipulation, analysis, and visualization, with a strong portfolio of various su
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Storytelling with Data Project
+- 🔭 I’m currently working on [Storytelling with Data Project](https://public.tableau.com/views/FStorytellingwithDataProject1-5/StorytellingwithDataStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - 🌱 I’m currently learning Business Analytics.
 - 👯 I’m looking to collaborate on projects with more expereinced collegues.
 - 🤔 I’m looking for help with finding the right Work-Life Balance
