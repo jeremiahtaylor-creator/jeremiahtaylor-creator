@@ -11,4 +11,5 @@ manipulation, analysis, and visualization, with a strong portfolio of various su
 - 💬 Ask me about Music
 - 📫 How to reach me: jtkeshawn23@icloud.com
 - 😄 Pronouns: He/Him
-- 📄 Know about my experiences: https://docs.google.com/document/d/e/2PACX-1vSWICNwMOqGa0uAfzhZTpzWDRSUgohd6dYQA91k2xr8CFodLNp344Y6RPy1bOuTftBQGnvjJ3MwsWGb/pub
+- 📄 Know about my experiences: [https://docs.google.com/document/d/e/2PACX-1vSWICNwMOqGa0uAfzhZTpzWDRSUgohd6dYQA91k2xr8CFodLNp344Y6RPy1bOuTftBQGnvjJ3MwsWGb/pub
+](https://docs.google.com/document/d/13-V21D37_IZhV9AJFx449dXDLfTPjP64ZDMsD2aEP_A/edit?usp=sharing)
