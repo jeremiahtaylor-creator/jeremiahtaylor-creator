@@ -4,7 +4,7 @@ Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | Norbu stress control | The project task was to analyze user data and find possible causes for the company’s low CR and retention rate. |
-| 2 | [Instacart] | (https://github.com/zarina-perez/TripleTen_projects/tree/main/02-EDA_project) | The project task was to prepare a report that gives insight into the shopping habits of Instacart customers |
-| 3 | A/A/B Test Analysis | The project task was to study the sales funnel and analyze the results of an A/B test for a food startup. |
-| 4 | Machine Learning Customer Interaction Strategies | The project task was to help a chain of fitness clubs develop a customer retention strategy.
+| 1 | SQL | A practice project that uses SQL skills to examine ride sharing data from a system of related tables.
+| 2 | E-commerce Analytics | A project in Google Sheets to analyze sales data and communicate findings in a way that executives can understand easily. 
+| 3 | Forecasting Churn of Customers | A telecom operator decided to offer promotional codes and a special plan option for users who are planning to leave. The project task was to build a model to predict customer churn. 
+| 4 | Case Study of Returned Items | An analysis of why so many items were being returned at a department store that included a dashboard to monitor returns
