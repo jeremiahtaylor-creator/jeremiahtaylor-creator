@@ -1,8 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>URL</key>
-	<string>https://public.tableau.com/app/profile/jeremiah.taylor7282/viz/Project_17268158822260/ProfitsReturnRatesbyPostalCode?publish=yes</string>
-</dict>
-</plist>
+I first explored the dataset to find and fix missing and duplicate values, and I merged DataFrames from different sources. Finally, I analyzed the data using visualizations and pivot tables.
