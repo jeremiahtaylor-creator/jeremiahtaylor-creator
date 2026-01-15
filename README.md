@@ -7,8 +7,8 @@ manipulation, analysis, and visualization, with a strong portfolio of various su
 - 🔭 I’m currently working on [Storytelling with Data Project](https://public.tableau.com/views/FStorytellingwithDataProject1-5/StorytellingwithDataStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - 🌱 I’m currently learning Business Analytics.
 - 👯 I’m looking to collaborate on projects with more experienced collegues.
-- 🤔 I’m looking for help with finding the right Work-Life Balance
-- 💬 Ask me about Music
+- 🤔 I’m looking for help with finding the right Work-Life Balance.
+- 💬 Ask me about Music.
 - 📫 How to reach me: jtkeshawn23@icloud.com
 - 😄 Pronouns: He/Him
 - 📄 Know about my experiences: [https://docs.google.com/document/d/e/2PACX-1vSWICNwMOqGa0uAfzhZTpzWDRSUgohd6dYQA91k2xr8CFodLNp344Y6RPy1bOuTftBQGnvjJ3MwsWGb/pub
